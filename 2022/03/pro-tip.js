@@ -1,0 +1,1 @@
+const getItemPoints = (item) => 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.indexOf(item) + 1;
